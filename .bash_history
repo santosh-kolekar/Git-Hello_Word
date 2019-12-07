@@ -60,3 +60,11 @@ java hello
 ls -lrt
 java hello
 java HelloWorld
+sudo apt-get install git
+sudo apt-get update
+sudo apt-get install git
+uname -a
+sudo yum install git
+git --version
+git config --global user.name "santosh-kolekar"
+git config --global user.email "santoshkolekar99@gmail.com"
